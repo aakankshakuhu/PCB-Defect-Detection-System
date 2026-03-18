@@ -149,14 +149,19 @@ Open Swagger Docs
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 My Contributions
 
-**Prashant Yadav**  
-Computer Science (AI) Student  
-AI • Backend • System Integration  
+I contributed significantly (~70%) to the development of this project, including:
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/prashant-yadav-638684298/
+- Designing the overall project pipeline
+- Implementing image preprocessing techniques
+- Assisting in model selection and training workflow
+- Handling dataset structuring and labeling logic
+- Debugging and optimizing prediction flow
+
+Note: Initial development was done collaboratively on a shared system; hence commit history may not fully reflect contributions.
+
+
 
 ---
 
