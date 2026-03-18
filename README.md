@@ -79,7 +79,7 @@ Download Results
 ## 📸 Screenshots
 
 ### 🔹 Input PCB Image
-![Input PCB](screenshots/1.png)
+![Input PCB](1.jpeg)
 
 ### 🔹 Defect Detection Output
 ![Detection Output](screenshots/2.png)
